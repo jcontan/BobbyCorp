@@ -21,7 +21,8 @@ h1 {
   font-weight: bold;
   font-style: italic;
   font-size:12vw;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.25em;
+    margin-top: 0.25em;
 }
 
 h2 {
